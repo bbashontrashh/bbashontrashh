@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="descarga.jpeg" alt="Banner" width="100%"/>
-</p>
-
 <!-- Title -->
 <h1 align="center">
   Hi, I'm <b>__BASH__</b> 
@@ -10,6 +5,11 @@
 
 <p align="center">
   <em>"Turning ideas into code, one commit at a time."</em>
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <img src="descarga.jpeg" alt="Banner" width="100%"/>
 </p>
 
 ---

@@ -15,14 +15,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studing DAW/DAM  
-- 💻 Skilled in: Python, HTML, css, Shell** 
-- 🌱 Currently learning:
-  - JavaScript    
-- 🤝 Looking to collaborate on **open-source projects**  
-- 📖 Outside of coding: I love reading, 🎨 editing videos, 🎵 music, and tech.  
-- 📫 Reach me at: soon...
-
+- 💻 Skilled in: __
+- 🌱 Currently learning: __   
+- 🤝 Looking to collaborate on: __   
+- 📫 Reach me at: __
+- 
 ---
 
 ### 🚀 Tech Stack
@@ -32,13 +29,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbashontrashh&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbashontrashh&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
----
-
 ### 🌐 Connect with me
-soon...
+__

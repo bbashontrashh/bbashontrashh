@@ -47,4 +47,3 @@ class shiva:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4f46e5,100:0d1117"/>
 
 </div>
-````

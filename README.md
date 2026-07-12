@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:4f46e5&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# 👋 Hey, I'm Shiva
+# 🎩 Hey, I'm Shiva
 
 **Python Developer • Desktop Apps • Automation • And more**
 
@@ -19,7 +17,7 @@
 
 ---
 
-# 💻 About Me
+# 🖖 About Me
 
 ```python
 class shiva:
@@ -42,8 +40,19 @@ class shiva:
         self.goal = "Build projects people actually use."
 ```
 
+## 💻 Currently Working on:
+
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4f46e5,100:0d1117"/>
-
+<h1>One For ALL</h1>
+    
 </div>
+
+<p>
+    
+</p>
+
+
+
+
+

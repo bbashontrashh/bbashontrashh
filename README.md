@@ -1,45 +1,29 @@
 <div align="center">
 
-# 🎩 Hey!
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ARB&fontSize=70&color=0:000000,100:434343&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=50&desc=Welcome%20to%20my%20GitHub&descSize=16&descAlignY=70" width="100%"/>
 
-<p>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
-</p>
+<br>
 
-</div>
+### `Building. Learning. Evolving.`
+
+*Turning ideas into reality, one commit at a time.*
+
+<br>
+
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
 
 ---
 
-# 🖖 About Me
+<br>
 
-```python
-class 0_0:
+**Thanks for stopping by.**
 
-    def __init__(self):
-        self.code = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS"
-            "C*"
-        ]
-```
+<br>
 
-## 💻 Currently Working on:
+<sub>© Shiva · Made with passion.</sub>
 
-
-<div align="center">
-<h1>..-..</h1>
-    
 </div>
-
-<p>
-    
-</p>
-
-
-
-
-

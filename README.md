@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🎩 Hey, I'm Shiva
-
-**Python Developer • Desktop Apps • Automation • And more**
+# 🎩 Hey!
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Building+clean+software.;Learning+something+new+every+day.;Python+%7C+Electron+%7C+JavaScript"/>
 
@@ -30,21 +28,13 @@ class shiva:
             "CSS"
             "C*"
         ]
-
-        self.current_focus = [
-            "Automation",
-            "Desktop Applications",
-            "Backend",
-        ]
-
-        self.goal = "Build projects people actually use."
 ```
 
 ## 💻 Currently Working on:
 
 
 <div align="center">
-<h1>One For ALL</h1>
+<h1>..-..</h1>
     
 </div>
 
